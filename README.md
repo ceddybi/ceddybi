@@ -1,5 +1,3 @@
-### Hi there, I'm [Ceddy!](https://ceddy.org) 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceddybi" alt="ceddybi" /> </p>
 
 <br/>
@@ -22,11 +20,7 @@
 
 <br />
 
-### Hi 👋🏿,
-### I'm a Rocket Science Engineer.
-
-
-
+### Hi there, I'm [Ceddy!](https://ceddy.org) 👋 - a Rocket Science Engineer.
 
 <br />
 
