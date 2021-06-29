@@ -26,12 +26,9 @@
 
 <br />
 
-### Hi there, I'm [Ceddy!](https://ceddy.org) 👋 - Mad Scientist.
+### Hi there, I'm [Ceddy!](https://ceddy.org) 👋 - Scientist.
 
 <br />
-
-
-**I don't need an intro**
 
 **ML/Web/Physics**
 <br />
