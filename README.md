@@ -26,7 +26,7 @@
 
 <br />
 
-### Hi there, I'm [Ceddy!](https://ceddy.org) 👋 - Scientist.
+### Hi there, I'm [Ceddy!](https://ceddy.org) 👋.
 
 <br />
 
