@@ -26,7 +26,7 @@
 
 <br />
 
-### Hi there, I'm [Ceddy!](https://ceddy.org) 👋.
+### Hi there, I'm [Ceddy!](https://2021.ceddy.org) 👋.
 
 <br />
 
