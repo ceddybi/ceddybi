@@ -11,7 +11,7 @@
 
 ### Hi there, I'm [Ceddy!](https://2021.ceddy.org) 👋.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=016EEA&size=30&width=500&lines=Alien+Typer+Shit;Open-Source+Developer+❤️❤️❤️;ML+Web+and+Physics!;Nice+to+git+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=016EEA&size=30&width=500&lines=Nice+to+git+meet+you...;Open-Source+Developer+❤️❤️❤️;ML+Web+and+Physics!)](https://git.io/typing-svg)
 
 
 <br />
